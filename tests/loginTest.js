@@ -1,5 +1,5 @@
 import { Selector } from 'testcafe';
-import Colors from 'colors'
+//import Colors from 'colors'
 
 const wrongUsername = 'abc' 
 const wrongPassword = 'abc'
